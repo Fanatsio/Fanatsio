@@ -14,7 +14,14 @@
   </a>
 </div>
 
-### My stat
+### About me
+- 🌱 I’m currently learning **Android, GameDev**
+- 📫 Reach me by [email](mailto:fanatsio@gmail.com)
+- 🌍 I speak Russian, English and Japanese
+
+---
+
+### My statistics
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fanatsio&theme=github_dark" alt=""/>

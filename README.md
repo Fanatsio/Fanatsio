@@ -3,8 +3,8 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="linkedin-url">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://linktr.ee/fanatsio">
+    <img src="https://img.shields.io/badge/LinkTree-blue?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree"/>
   </a>
   <a href="twitter-url">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
@@ -16,7 +16,7 @@
 
 ### About me
 - 🌱 I’m currently learning **Android, GameDev**
-- 📫 Reach me by [email](mailto:fanatsio@gmail.com)
+- 📫 Reach me by email: fanatsio@gmail.com
 - 🌍 I speak Russian, English and Japanese
 
 ---

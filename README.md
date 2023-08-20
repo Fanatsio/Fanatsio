@@ -6,8 +6,8 @@
     <a href="https://linktr.ee/fanatsio">
     <img src="https://img.shields.io/badge/LinkTree-blue?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree"/>
   </a>
-  <a href="twitter-url">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="telegram-url">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>

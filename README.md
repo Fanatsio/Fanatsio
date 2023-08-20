@@ -6,7 +6,7 @@
     <a href="https://linktr.ee/fanatsio">
     <img src="https://img.shields.io/badge/LinkTree-blue?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree"/>
   </a>
-  <a href="www.linkedin.com">
+  <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="telegram-url">

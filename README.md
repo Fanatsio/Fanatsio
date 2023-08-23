@@ -15,7 +15,7 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Mobile, GameDev**
+- 🌱 I’m currently learning **Desktop, GameDev**
 - 📫 Reach me by email: fanatsio@gmail.com
 - 🌍 I speak Russian, English and Japanese
 

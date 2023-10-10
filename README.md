@@ -30,17 +30,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" title="Cmake" width="40" height="40"/>&nbsp;
 
-### GitHub Analytics
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetsunya&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanatsio&layout=compact&theme=radical)
 
 ### My statistics
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fanatsio&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fanatsio&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fanatsio&theme=github_dark" alt=""/>
 </div>
 
 ---

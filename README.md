@@ -21,6 +21,11 @@
 
 ---
 
+### GitHub Analytics
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetsunya&show_icons=true&theme=radical) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanatsio&layout=compact&theme=radical)
+
 ### Languages and tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;

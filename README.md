@@ -6,17 +6,14 @@
     <a href="https://linktr.ee/fanatsio">
     <img src="https://img.shields.io/badge/LinkTree-blue?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree"/>
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://t.me/fanatsio">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Java, GameDev**
-- 📫 Reach me by email: fanatsio@gmail.com
+- 🌱 I’m currently learning **Go, C#**
+- 📫 Reach me by email: fanatsio7@gmail.com
 - 🌍 I speak Russian and learn English & Japanese
 
 ---
@@ -26,9 +23,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" title="Cmake" width="40" height="40"/>&nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanatsio&layout=compact&theme=radical)
 

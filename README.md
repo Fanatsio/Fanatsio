@@ -12,7 +12,7 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Go, C#**
+- 🌱 I’m currently learning **Java, C# and Mobile**
 - 📫 Reach me by email: fanatsio7@gmail.com
 - 🌍 I speak Russian and learn English & Japanese
 

@@ -10,7 +10,7 @@
 </div>
 
 ### :man_technologist: About me
-- 🌱 I’m currently learning **C#, GameDev and Mobile**
+- 🌱 I’m currently learning **GameDev and Mobile**
 - 📫 Reach me by email: fanatsio7@gmail.com
 - 🌍 I speak Russian and learn English & Japanese
 

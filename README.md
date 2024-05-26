@@ -10,7 +10,7 @@
 </div>
 
 ### :man_technologist: About me
-- 🌱 I’m currently learning **GameDev and Backend**
+- 🌱 I’m currently learning **Java and Backend**
 - 📫 Reach me by email: fanatsio7@gmail.com
 - 🌍 I speak Russian and learn English & Japanese
 
